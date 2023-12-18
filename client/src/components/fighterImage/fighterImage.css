@@ -1,0 +1,17 @@
+.fighter-preview___right {
+  align-items: flex-end;
+}
+
+.fighter-preview___right .fighter-preview___img {
+  transform: rotateY(180deg);
+}
+
+.fighter-preview___left {
+  align-items: flex-start;
+}
+
+.fighter-preview___img {
+  display: block;
+  width: 250px;
+  height: 330px;
+}

@@ -1,0 +1,23 @@
+.recent-matches___title {
+  text-align: center;
+}
+
+.recent-matches___list {
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.recent-matches___item {
+  border: 1px solid black;
+  border-radius: 15px;
+}
+
+.match {
+  padding: 10px 30px;
+  display: flex;
+  gap: 20px;
+}
